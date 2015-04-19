@@ -107,7 +107,7 @@ Each EsIndexable model receive an Elasticsearch class that contains its options 
     Defaults to None  
     The fields to be indexed by elasticsearch, if left to None, all models fields will be indexed.
 
-* **mapping**  
+* **mappings**  
     Defaults to None  
     You can override some or all of the fields mapping with this dictionnary
     Example:  
